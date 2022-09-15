@@ -1,0 +1,3 @@
+El custom paint necesita dos metodso el paint y el should repaint
+El shouldRepaint siempre debe estar en true cuando los diseños son muy pequeños
+Es como trabajar en un plano cartesiano nomas que aqui no existen los valores negativos
